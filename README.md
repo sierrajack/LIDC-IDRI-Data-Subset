@@ -1,0 +1,2 @@
+# LIDC-IDRI Data Subset
+ NODULE ANNOTATIONS
